@@ -1,16 +1,31 @@
-## Hi there 👋
+# مرحبًا، أنا مشاعل | Mashael
 
-<!--
-**msk-bit/msk-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- معلمة حاسب ومدربة تربوية في الرياض (مدرسة 124)  
+- شغوفة بالتحول الرقمي، تطوير المناهج، وتمكين الطالبات بالهوية والقيم  
+- أهتم بصناعة محتوى تربوي-نفسي واقعي، وتجارب تعلم تفاعلية
 
-Here are some ideas to get you started:
+## ✨ Highlights
+- EdTech • Digital Transformation • Curriculum Design  
+- Workshops: Station-based learning | Forms/OneDrive | Rubrics & Analytics  
+- Community Projects: الهوية الوطنية • مهارات الحوار • بودكاست مدرسي  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 تواصل
+- [X / Twitter](https://x.com/meshokh)  
+- [TikTok](https://www.tiktok.com/@msk_97s)  
+
+---
+
+# Hi, I'm Mashael | مشاعل
+
+- Computer Science Teacher & Educational Trainer – Riyadh (School 124)  
+- Passionate about digital transformation, curriculum design, and empowering students with values & identity  
+- Creating realistic educational-psychological content & interactive learning experiences  
+
+## ✨ Highlights
+- EdTech • Digital Transformation • Curriculum Development  
+- Workshops: Station-based learning | Forms/OneDrive | Rubrics & Analytics  
+- Community Projects: National identity • Dialogue skills • School podcast  
+
+## 🌐 Connect
+- [X / Twitter](https://x.com/meshokh)  
+- [TikTok](https://www.tiktok.com/@msk_97s)  
