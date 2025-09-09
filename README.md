@@ -1,20 +1,3 @@
-# مرحبًا، أنا مشاعل | Mashael
-
-- معلمة حاسب ومدربة تربوية في الرياض (مدرسة 124)  
-- شغوفة بالتحول الرقمي، تطوير المناهج، وتمكين الطالبات بالهوية والقيم  
-- أهتم بصناعة محتوى تربوي-نفسي واقعي، وتجارب تعلم تفاعلية
-
-## ✨ Highlights
-- EdTech • Digital Transformation • Curriculum Design  
-- Workshops: Station-based learning | Forms/OneDrive | Rubrics & Analytics  
-- Community Projects: الهوية الوطنية • مهارات الحوار • بودكاست مدرسي  
-
-## 🌐 تواصل
-- [X / Twitter](https://x.com/meshokh)  
-- [TikTok](https://www.tiktok.com/@msk_97s)  
-
----
-
 # Hi, I'm Mashael | مشاعل
 
 - Computer Science Teacher & Educational Trainer – Riyadh (School 124)  
